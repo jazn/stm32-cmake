@@ -1,3 +1,10 @@
+== Fork Info ==
+This is fork of orginal project https://github.com/ObKo/stm32-cmake.
+
+This one has modified stm32-blinky example to work with STM32VLDISCOVERY dev board.
+
+Modified by Mateusz 'mojes' Niemojewski aka 'jaźń'.
+
 == About ==
 This project is used to develop applications for stm32 - ST's ARM Cortex-M3 MCUs, using cmake, GCC, newlib (libc) and STM32F10x Standard Peripherals Library.
 
